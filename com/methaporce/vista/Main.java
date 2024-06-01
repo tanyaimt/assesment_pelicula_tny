@@ -1,7 +1,7 @@
-package out;
+package com.methaporce.vista;
 
-import src.Pelicula;
-import src.GestorPelicula;
+import com.methaporce.modelo.GestorPelicula;
+import com.methaporce.modelo.Pelicula;
 
 public class Main {
     public static void main(String[] args) {

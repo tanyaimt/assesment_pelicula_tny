@@ -1,4 +1,4 @@
-package src;
+package com.methaporce.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

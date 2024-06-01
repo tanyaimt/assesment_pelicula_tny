@@ -1,4 +1,4 @@
-package src;
+package com.methaporce.modelo;
 
 public class Pelicula {
     private int id;
